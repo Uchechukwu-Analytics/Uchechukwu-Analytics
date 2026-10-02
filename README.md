@@ -5,9 +5,11 @@ I enjoy transforming raw data into meaningful insights through data cleaning, an
 
 🛠️ Tools & Skills
 Microsoft Excel — Data Cleaning, PivotTables, Power Query, Dashboards
-Power BI — Data Modeling, DAX, Interactive Dashboards
-SQL — Currently developing my skills
-Python — Currently developing my skills
+Power BI — Data Modeling, DAX, Interactive Dashboards 
+
+SQL — Currently developing my skills on basic queries, join 
+
+Python — Currently developing my skills on Pandas, Data Cleaning 
 
 📊 Featured Projects
 🔹 Meridian Civil Construction
@@ -27,8 +29,6 @@ Data Visualization
 Data Science
 
 📫 Connect With Me
-LinkedIn: [Add your LinkedIn profile here]
-Portfolio: [Add your portfolio link here]
 Email: [kaluuchechukwugoodluck@gmail.com]
 ---
 > *Turning data into insights, one project at a time.*
